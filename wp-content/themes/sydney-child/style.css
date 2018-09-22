@@ -1,0 +1,416 @@
+/*
+Theme Name:   sydney-child
+Theme URI:    http://chaletetcaviarcourchevel.local/sydney-child/
+Description:  Sydney Child Theme
+Author:       carole guardiola
+Author URI:   http://chaletetcaviarcourchevel.local
+Template:     sydney
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  sydney-child
+*/
+
+
+
+/*--------------------------------------------------------------
+Header 587
+--------------------------------------------------------------*/
+.site-header 
+{
+    background-color: #1c1c1c !important;
+}
+
+@media only screen and (min-width:1025px) 
+{
+  .site-header, 
+  .site-header.fixed,
+  .site-header.float-header 
+{
+    position: fixed !important;
+}
+}
+
+@media (min-width: 992px)
+{
+.site-header .col-md-4 {
+    width: 30%;
+}
+}
+
+@media (min-width: 992px)
+{
+.site-header .col-md-8 {
+    width: 70%;
+}
+}
+
+#mainnav ul li a 
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/*--------------------------------------------------------------
+Hero section 1058
+--------------------------------------------------------------*/
+.slide-inner 
+{
+    position: absolute;
+    top: 55%;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+.text-slider .maintitle, .text-slider .subtitle 
+{
+    z-index: 10;
+    color: #fff;
+    margin: 0;
+    letter-spacing: 1px;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 1);
+	font-weight: bold;
+}
+
+
+/*--------------------------------------------------------------
+Blog 1209
+--------------------------------------------------------------*/
+.hentry .title-post
+{
+display: none;
+}
+
+
+/*--------------------------------------------------------------
+Widgets 1346
+--------------------------------------------------------------*/
+.widget-area .widget 
+{
+    margin-bottom: 0px;
+    display: inline-block;
+	padding-right: 15px;
+}
+
+.widget-area .widget ul li 
+{
+	padding: 0px 0;
+}
+
+.widget-area .widget-title 
+{
+    padding-bottom: 18px;
+}
+
+.wpcf7-form label, .wpcf7-form .wpcf7-form-control-wrap, .wpcf7-form textarea, .wpcf7-form input, .wpcf7-form select
+{
+    width: 100%;
+}
+
+.siteorigin-widget-tinymce.textwidget h4
+{
+	border: 1px solid #be8900;
+	padding: 5px 5px 8px 5px;
+}
+
+hr {
+   	margin: 20px 50px; 
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+
+/*--------------------------------------------------------------
+Footer 1594
+--------------------------------------------------------------*/
+.footer-widgets 
+{
+	padding: 15px 0;
+}
+
+.footer-widgets .contact-email
+{
+	font-size: 12px;
+}
+
+/*--------------------------------------------------------------
+Panels 1816
+--------------------------------------------------------------*/
+
+/* Icon Box 1915
+-------------------------------------------------------------- */
+.roll-icon-box a
+{
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.roll-icon-box .service-thumb {
+    margin: 20px auto 20px;
+}
+
+/* Contact widget 1980
+-------------------------------------------------------------- */
+.sydney_contact_info_widget span 
+{
+	color: #be8900;
+}
+
+.sydney_contact_info_widget div 
+{
+	margin-bottom: 0px;
+}
+
+.widget.sydney_contact_info_widget i
+{
+	color: #be8900;
+    margin-right: 15px;
+}
+
+/* Team 2656
+-------------------------------------------------------------- */
+.so-panel.widget.widget_sydney_employees.sydney_employees_widget.panel-last-child
+{
+	background: #323232;
+}
+
+div.roll-team.carousel.owl-carousel.owl-theme
+{
+	padding-top: 20px;
+}
+
+.roll-team .team-inner 
+{
+    background-color: transparent;
+    position: relative;
+    text-align: center;
+}
+
+.roll-team .team-item .pop-overlay, .team-pop
+{
+	padding: 0;
+}
+
+.roll-team.carousel .team-item 
+{
+    width: 200px;
+    padding: 0 25px;
+	float: none;
+}
+
+.roll-team .team-content .pos
+{
+	color: #b2b2b2;
+}
+
+.roll-team .team-inner .pop-overlay
+{
+	width: 150px;
+}
+
+.roll-team .team-item .team-pop
+{
+	cursor: default;
+}
+
+
+/*--------------------------------------------------------------
+EPL Immobilier
+--------------------------------------------------------------*/
+/**********************
+	Loop
+***********************/
+.property-box.property-box-right.property-content
+{
+	width: 65%
+}
+
+.property-box.property-box-left.property-featured-image-wrapper
+{
+	width: 35%
+}
+
+.epl-listing-single, .loop.epl-shortcode
+{
+	background: #323232;
+	padding: 40px;
+}
+
+/*----widget search----*/
+.epl-search-form .epl-search-label
+{
+	display: inline;
+}
+
+.epl-search-form .epl-sb-current 
+{
+	display: inherit;
+	width: 100%;
+}
+
+ul.epl-author-tabs li.epl-author-current,
+ul.property_search-tabs li.epl-sb-current,
+li.tbhead.current 
+{
+	background: #be8900;
+	color: white;
+	border-bottom: 2px solid #999;
+	margin-bottom: 0;
+	font-size: 14px;
+}
+
+ul.epl-author-tabs li,
+ul.property_search-tabs li,
+ul.map-tabs li 
+{
+	background: #d1ac4c;
+	color: white;
+	display: inline-block;
+	padding: 10px 15px;
+	cursor: pointer;
+	margin: 0;
+	font-size: 12px;
+}
+
+.epl-search-label.fm-label
+{
+	color: #ffffff;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.epl-search-row-select .field
+{
+	font-size: 12px;
+}
+
+.epl-search-form .epl-search-btn
+{
+	font-size: 12px;
+	display: inline-block;
+}
+
+.epl-property-blog .epl-property-blog-entry-wrapper 
+{
+    margin: 4px;
+    background: #fafafa;
+    box-shadow: 0 0 3px #ccc;
+	border: 1px solid #fafafa
+}
+
+
+/**********************
+	Single
+***********************/
+.title-meta-wrapper-1
+{
+	display: flex;
+	flex-direction: column;
+	width: 50%;
+}
+
+.site-content.content-area.epl-single-default.epl-active-theme-sydney-child
+{
+	padding: 0 70px 0 70px;
+}
+
+.entry-col.epl-property-details.property-details h3, .epl-tab-content.tab-content h3
+{
+	text-align: left;
+	color: #be8900;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+div.epl-property-meta.property-meta.pricing
+{
+	color: white;
+}
+
+.epl-property-single.view-expanded .entry-header .property-pricing-details
+{
+	width: 100%;
+}
+
+.epl-property-single.view-expanded .entry-header .property-details 
+{
+	width: 100%;
+	margin: 20px 0 0 0;
+}
+
+.epl-property-single.view-expanded .property-pricing-details .property-feature-icons,
+.epl-property-single.view-condensed .property-pricing-details
+{
+    float: none;
+	padding-bottom: 10px;
+	color: white;
+}
+
+.epl-property-single .property-meta.pricing 
+{
+	float: none;
+}
+
+.epl-property-meta.property-meta.pricing
+{
+	padding-bottom: 5px;
+	padding-top: 5px;
+	text-align: left;
+}
+
+.entry-header.epl-header.epl-clearfix
+{
+	margin-bottom: 0;
+	padding-left: 20px;
+}
+
+.epl_property_featured_image, .epl-tab-content.tab-content
+{
+	padding-bottom: 50px;
+}
+
+.epl-featured-image img
+{
+	border: 1px solid #be8900;
+}
+
+.epl_property_gallery
+{
+	padding: 0 20px 20px 20px;
+}
+
+.epl_property_gallery img
+{
+	border: 1px solid #be8900;
+}
+
+.accroche_annonce
+{
+	padding-bottom: 50px;
+	text-align: center;
+	color: #b2b2b2;
+}
+
+.call-to-action
+{
+	width: 50%;
+	margin-bottom: 20px;
+}
+
+.epl-listing-single h5
+{
+	color: white;
+}
+
+.epl-listing-single h6
+{
+	color: #b2b2b2;
+	font-size: 16px;
+}
+
+.epl-tab-content
+{
+	color: #b2b2b2;
+}

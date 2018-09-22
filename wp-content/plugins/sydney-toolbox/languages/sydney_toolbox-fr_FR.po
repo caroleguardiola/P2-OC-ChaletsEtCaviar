@@ -1,0 +1,558 @@
+# Translation of Plugins - Sydney Toolbox - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Sydney Toolbox - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-12 08:54+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 2.0.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Sydney Toolbox - Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. Author URI of the plugin/theme
+msgid "http://athemes.com"
+msgstr "http://athemes.com"
+
+#. Author of the plugin/theme
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Description of the plugin/theme
+msgid "Registers custom post types and custom fields for the Sydney theme"
+msgstr "Enregistre les types de publication personnalisés et les champs personnalisés pour le thème de Sydney"
+
+#. Plugin URI of the plugin/theme
+msgid "http://athemes.com/plugins/sydney-toolbox"
+msgstr "http://athemes.com/plugins/sydney-toolbox"
+
+#. Plugin Name of the plugin/theme
+msgid "Sydney Toolbox"
+msgstr "Sydney Toolbox"
+
+#: sydney-toolbox.php:91
+msgid "Please note that the <strong>Sydney Toolbox</strong> plugin is meant to be used only with the <a href=\"http://wordpress.org/themes/sydney/\" target=\"_blank\">Sydney theme</a></p>"
+msgstr "Notez que le <strong> Sydney Toolbox </ strong> plugin doit être utilisé uniquement avec le <a href=\"http://wordpress.org/themes/sydney/\" target=\"_blank\"> thème de Sydney </ A> </ p>"
+
+#: inc/post-type-timeline.php:52
+msgid "A post type for your timeline events"
+msgstr "Un type de publication pour vos évènements chronologiques"
+
+#: inc/post-type-timeline.php:51
+msgid "Event"
+msgstr "Évènement"
+
+#: inc/post-type-timeline.php:37
+msgid "Search Event"
+msgstr "Chercher un événement"
+
+#: inc/post-type-timeline.php:36
+msgid "View Event"
+msgstr "Afficher l'événement"
+
+#: inc/post-type-timeline.php:35
+msgid "Update Event"
+msgstr "Mettre à jour de l'évènement"
+
+#: inc/post-type-timeline.php:34
+msgid "Edit Event"
+msgstr "Modifier l'événement"
+
+#: inc/post-type-timeline.php:33
+msgid "New Event"
+msgstr "Nouvel  événement"
+
+#: inc/post-type-timeline.php:31 inc/post-type-timeline.php:32
+msgid "Add New Event"
+msgstr "Ajouter un événement"
+
+#: inc/post-type-timeline.php:30
+msgid "All Timeline Events"
+msgstr "Tous les évènements chronologiques"
+
+#: inc/post-type-timeline.php:26 inc/post-type-timeline.php:27
+msgid "Timeline Events"
+msgstr "Evénements chronologiques"
+
+#: inc/post-type-timeline.php:25
+msgctxt "Post Type Singular Name"
+msgid "Event"
+msgstr "Evènement"
+
+#: inc/post-type-timeline.php:24
+msgctxt "Post Type General Name"
+msgid "Timeline Events"
+msgstr "Événements Chronologiques"
+
+#: inc/post-type-testimonials.php:47
+msgid "A post type for your testimonials"
+msgstr "Un type de publication pour vos témoignages"
+
+#: inc/post-type-testimonials.php:46
+msgid "Testimonial"
+msgstr "Témoignage"
+
+#: inc/post-type-testimonials.php:32
+msgid "Search Testimonial"
+msgstr "Recherche Témoignage"
+
+#: inc/post-type-testimonials.php:31
+msgid "View Testimonial"
+msgstr "Témoignage de la vue"
+
+#: inc/post-type-testimonials.php:30
+msgid "Update Testimonial"
+msgstr "Mettre à jour du témoignage"
+
+#: inc/post-type-testimonials.php:29
+msgid "Edit Testimonial"
+msgstr "Modifier le Témoignage"
+
+#: inc/post-type-testimonials.php:28
+msgid "New Testimonial"
+msgstr "Nouveau témoignage"
+
+#: inc/post-type-testimonials.php:26 inc/post-type-testimonials.php:27
+msgid "Add New Testimonial"
+msgstr "Ajouter nouveau témoignage"
+
+#: inc/post-type-testimonials.php:25
+msgid "All Testimonials"
+msgstr "Tout les témoignages"
+
+#: inc/post-type-testimonials.php:21 inc/post-type-testimonials.php:22
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: inc/post-type-testimonials.php:20
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr "Témoignage"
+
+#: inc/post-type-testimonials.php:19
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: inc/post-type-services.php:47
+msgid "A post type for your services"
+msgstr "Un type de publication pour vos prestations de service"
+
+#: inc/post-type-services.php:46
+msgid "Service"
+msgstr "Service"
+
+#: inc/post-type-services.php:32
+msgid "Search Service"
+msgstr "Recherche Service"
+
+#: inc/post-type-services.php:31
+msgid "View Service"
+msgstr "Afficher le service"
+
+#: inc/post-type-services.php:30
+msgid "Update Service"
+msgstr "Mettre à jour du service"
+
+#: inc/post-type-services.php:29
+msgid "Edit Service"
+msgstr "Modifier le service"
+
+#: inc/post-type-services.php:28
+msgid "New Service"
+msgstr "Nouveau Service"
+
+#: inc/post-type-services.php:26 inc/post-type-services.php:27
+msgid "Add New Service"
+msgstr "Ajouter un nouveau service"
+
+#: inc/post-type-services.php:25
+msgid "All Services"
+msgstr "Tous les services"
+
+#: inc/post-type-services.php:21 inc/post-type-services.php:22
+msgid "Services"
+msgstr "Services"
+
+#: inc/post-type-services.php:20
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr "Prestation de services"
+
+#: inc/post-type-services.php:19
+msgctxt "Post Type General Name"
+msgid "Services"
+msgstr "Prestations de service"
+
+#: inc/post-type-projects.php:47
+msgid "A post type for your projects"
+msgstr "Un type de publication pour vos projets"
+
+#: inc/post-type-projects.php:46
+msgid "Project"
+msgstr "Projet"
+
+#: inc/post-type-projects.php:32
+msgid "Search Project"
+msgstr "Recherche de projet"
+
+#: inc/post-type-projects.php:31
+msgid "View Project"
+msgstr "Afficher le projet"
+
+#: inc/post-type-projects.php:30
+msgid "Update Project"
+msgstr "Mettre à jour du projet"
+
+#: inc/post-type-projects.php:29
+msgid "Edit Project"
+msgstr "Modifier Projet"
+
+#: inc/post-type-projects.php:28
+msgid "New Project"
+msgstr "Nouveau projet"
+
+#: inc/post-type-projects.php:26 inc/post-type-projects.php:27
+msgid "Add New Project"
+msgstr "Ajouter un nouveau projet"
+
+#: inc/post-type-projects.php:25
+msgid "All Projects"
+msgstr "Tous les projets"
+
+#: inc/post-type-projects.php:21 inc/post-type-projects.php:22
+msgid "Projects"
+msgstr "Projets"
+
+#: inc/post-type-projects.php:20
+msgctxt "Post Type Singular Name"
+msgid "Project"
+msgstr "Projet"
+
+#: inc/post-type-projects.php:19
+msgctxt "Post Type General Name"
+msgid "Projects"
+msgstr "Projets"
+
+#: inc/post-type-employees.php:47
+msgid "A post type for your employees"
+msgstr "Un type de publication pour vos employés"
+
+#: inc/post-type-employees.php:46
+msgid "Employee"
+msgstr "Employé"
+
+#: inc/post-type-employees.php:32
+msgid "Search Employee"
+msgstr "Recherche Employé"
+
+#: inc/post-type-employees.php:31
+msgid "View Employee"
+msgstr "Afficher l'employé"
+
+#: inc/post-type-employees.php:30
+msgid "Update Employee"
+msgstr "Mettre à jour de l'employé"
+
+#: inc/post-type-employees.php:29
+msgid "Edit Employee"
+msgstr "Modifier l'employé"
+
+#: inc/post-type-employees.php:28
+msgid "New Employee"
+msgstr "Nouvel Employé"
+
+#: inc/post-type-employees.php:26 inc/post-type-employees.php:27
+msgid "Add New Employee"
+msgstr "Ajouter un nouvel employé"
+
+#: inc/post-type-employees.php:25
+msgid "All Employees"
+msgstr "Tous les employés"
+
+#: inc/post-type-employees.php:21 inc/post-type-employees.php:22
+msgid "Employees"
+msgstr "Employés"
+
+#: inc/post-type-employees.php:20
+msgctxt "Post Type Singular Name"
+msgid "Employee"
+msgstr "Employé"
+
+#: inc/post-type-employees.php:19
+msgctxt "Post Type General Name"
+msgid "Employees"
+msgstr "Employés"
+
+#: inc/post-type-clients.php:47
+msgid "A post type for your clients"
+msgstr "Un type de publication pour vos clients"
+
+#: inc/post-type-clients.php:46
+msgid "Client"
+msgstr "Client"
+
+#: inc/post-type-clients.php:43 inc/post-type-employees.php:43
+#: inc/post-type-projects.php:43 inc/post-type-services.php:43
+#: inc/post-type-testimonials.php:43 inc/post-type-timeline.php:48
+msgid "Filter items list"
+msgstr "Filtrer la liste des éléments"
+
+#: inc/post-type-clients.php:42 inc/post-type-employees.php:42
+#: inc/post-type-projects.php:42 inc/post-type-services.php:42
+#: inc/post-type-testimonials.php:42 inc/post-type-timeline.php:47
+msgid "Items list navigation"
+msgstr "Navigation de la liste des éléments"
+
+#: inc/post-type-clients.php:41 inc/post-type-employees.php:41
+#: inc/post-type-projects.php:41 inc/post-type-services.php:41
+#: inc/post-type-testimonials.php:41 inc/post-type-timeline.php:46
+msgid "Items list"
+msgstr "Liste des éléments"
+
+#: inc/post-type-clients.php:40 inc/post-type-employees.php:40
+#: inc/post-type-projects.php:40 inc/post-type-services.php:40
+#: inc/post-type-testimonials.php:40 inc/post-type-timeline.php:45
+msgid "Uploaded to this item"
+msgstr "Téléchargé à cet article"
+
+#: inc/post-type-clients.php:39 inc/post-type-employees.php:39
+#: inc/post-type-projects.php:39 inc/post-type-services.php:39
+#: inc/post-type-testimonials.php:39 inc/post-type-timeline.php:44
+msgid "Insert into item"
+msgstr "Insérer dans l'élément"
+
+#: inc/post-type-clients.php:38 inc/post-type-employees.php:38
+#: inc/post-type-projects.php:38 inc/post-type-services.php:38
+#: inc/post-type-testimonials.php:38 inc/post-type-timeline.php:43
+msgid "Use as featured image"
+msgstr "Utiliser comme image à la une"
+
+#: inc/post-type-clients.php:37 inc/post-type-employees.php:37
+#: inc/post-type-projects.php:37 inc/post-type-services.php:37
+#: inc/post-type-testimonials.php:37 inc/post-type-timeline.php:42
+msgid "Remove featured image"
+msgstr "Supprimer l'image principale"
+
+#: inc/post-type-clients.php:36 inc/post-type-employees.php:36
+#: inc/post-type-projects.php:36 inc/post-type-services.php:36
+#: inc/post-type-testimonials.php:36 inc/post-type-timeline.php:41
+msgid "Set featured image"
+msgstr "Définir l'image à la une"
+
+#: inc/post-type-clients.php:35 inc/post-type-employees.php:35
+#: inc/post-type-projects.php:35 inc/post-type-services.php:35
+#: inc/post-type-testimonials.php:35 inc/post-type-timeline.php:40
+msgid "Featured Image"
+msgstr "Image en avant"
+
+#: inc/post-type-clients.php:34 inc/post-type-employees.php:34
+#: inc/post-type-projects.php:34 inc/post-type-services.php:34
+#: inc/post-type-testimonials.php:34 inc/post-type-timeline.php:39
+msgid "Not found in Trash"
+msgstr "Pas trouvé dans la corbeille"
+
+#: inc/post-type-clients.php:33 inc/post-type-employees.php:33
+#: inc/post-type-projects.php:33 inc/post-type-services.php:33
+#: inc/post-type-testimonials.php:33 inc/post-type-timeline.php:38
+msgid "Not found"
+msgstr "Aucun élément trouvé"
+
+#: inc/post-type-clients.php:32
+msgid "Search Client"
+msgstr "Recherche Client"
+
+#: inc/post-type-clients.php:31
+msgid "View Client"
+msgstr "Afficher le client"
+
+#: inc/post-type-clients.php:30
+msgid "Update Client"
+msgstr "Mise à jour du Client"
+
+#: inc/post-type-clients.php:29
+msgid "Edit Client"
+msgstr "Modifier le client"
+
+#: inc/post-type-clients.php:28
+msgid "New Client"
+msgstr "Nouveau Client"
+
+#: inc/post-type-clients.php:26 inc/post-type-clients.php:27
+msgid "Add New Client"
+msgstr "Ajouter un nouveau client"
+
+#: inc/post-type-clients.php:25
+msgid "All Clients"
+msgstr "Tous les cleints"
+
+#: inc/post-type-clients.php:24 inc/post-type-employees.php:24
+#: inc/post-type-projects.php:24 inc/post-type-services.php:24
+#: inc/post-type-testimonials.php:24 inc/post-type-timeline.php:29
+msgid "Parent Item:"
+msgstr "Article parent:"
+
+#: inc/post-type-clients.php:23 inc/post-type-employees.php:23
+#: inc/post-type-projects.php:23 inc/post-type-services.php:23
+#: inc/post-type-testimonials.php:23 inc/post-type-timeline.php:28
+msgid "Item Archives"
+msgstr "Archives d'articles"
+
+#: inc/post-type-clients.php:21 inc/post-type-clients.php:22
+msgid "Clients"
+msgstr "Clients"
+
+#: inc/post-type-clients.php:20
+msgctxt "Post Type Singular Name"
+msgid "Client"
+msgstr "Client"
+
+#: inc/post-type-clients.php:19
+msgctxt "Post Type General Name"
+msgid "Clients"
+msgstr "Clients"
+
+#: inc/metaboxes/timeline-metabox.php:96
+msgid "You can link your event to a page of your choice by entering the URL in this field"
+msgstr "Vous pouvez rattacher votre événement à une page de votre choix en entrant l'URL dans ce champ"
+
+#: inc/metaboxes/timeline-metabox.php:95
+msgid "Event link"
+msgstr "Lien de l'événement"
+
+#: inc/metaboxes/timeline-metabox.php:93
+msgid "Select a color for the event icon."
+msgstr "Sélectionnez une couleur pour l'icône de l'événement."
+
+#: inc/metaboxes/timeline-metabox.php:92
+msgid "Event color"
+msgstr "Couleur de l'événement "
+
+#: inc/metaboxes/timeline-metabox.php:87
+msgid "Add the date when this timeline event happened."
+msgstr "Ajoutez la date à laquelle cet événement chronologique s'est produit."
+
+#: inc/metaboxes/timeline-metabox.php:86 inc/metaboxes/timeline-metabox.php:89
+msgid "Event icon"
+msgstr "Icône de l'événement"
+
+#: inc/metaboxes/timeline-metabox.php:34
+msgid "Timeline info"
+msgstr "Informations chronologiques"
+
+#: inc/metaboxes/testimonials-metabox.php:79
+msgid "Enter your client's function/company name"
+msgstr "Entrez la fonction de votre client / nom de l'entreprise"
+
+#: inc/metaboxes/testimonials-metabox.php:78
+msgid "Client function/Company name"
+msgstr "Fonction client / nom de l'entreprise"
+
+#: inc/metaboxes/singles-metabox.php:104
+msgid "Enter a value for the opacity of the white content background. Values from 0 to 1 (example 0.4)"
+msgstr "Entrez une valeur pour l'opacité du fond du contenu blanc. Valeurs de 0 à 1 (exemple 0.4)"
+
+#: inc/metaboxes/singles-metabox.php:103
+msgid "Content wrapper opacity"
+msgstr "Opacité du contenu"
+
+#: inc/metaboxes/singles-metabox.php:102
+msgid "Check this box to hide the title"
+msgstr "Cochez cette case pour cacher le titre"
+
+#: inc/metaboxes/singles-metabox.php:99
+msgid "Background color"
+msgstr "Couleur d'arrière plan"
+
+#: inc/metaboxes/singles-metabox.php:97
+msgid "If you want to use this option, make sure you leave the next background color option empty."
+msgstr "Si vous souhaitez utiliser cette option, assurez-vous de laisser vide l'option de couleur d'arrière-plan suivante."
+
+#: inc/metaboxes/singles-metabox.php:96
+msgid "Background image URL"
+msgstr "URL Couleur d'arrière plan"
+
+#: inc/metaboxes/singles-metabox.php:94
+msgid "Here you can control the options just for this page/post."
+msgstr "Ici vous pouvez contrôler les options juste pour cette page / publication."
+
+#: inc/metaboxes/singles-metabox.php:41
+msgid "Post/page options"
+msgstr "Options de publication / page"
+
+#: inc/metaboxes/services-metabox.php:81
+msgid "You can link your service to a page of your choice by entering the URL in this field"
+msgstr "Vous pouvez rattacher votre service à une page de votre choix en entrant l'URL dans ce champ"
+
+#: inc/metaboxes/services-metabox.php:80
+msgid "Service link"
+msgstr "Lien Service"
+
+#: inc/metaboxes/services-metabox.php:78 inc/metaboxes/timeline-metabox.php:90
+msgid "Example: <strong>fa-android</strong>. Full list of icons is <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">here</a>"
+msgstr "Exemple: <strong> fa-android </ strong>. La liste complète des icônes est <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\"> ici </a>"
+
+#: inc/metaboxes/services-metabox.php:77
+msgid "Service icon"
+msgstr "Icône Service"
+
+#: inc/metaboxes/services-metabox.php:33
+msgid "Service info"
+msgstr "Info Service"
+
+#: inc/metaboxes/projects-metabox.php:77
+msgid "Add an URL here to make this project link to another page (internal or external). Leave it empty and it will default to its own page."
+msgstr "Ajoutez une URL ici pour créer ce projet dans une autre page (interne ou externe). Laissez-le vide et il sera par défaut sur sa propre page."
+
+#: inc/metaboxes/projects-metabox.php:76
+msgid "Project link"
+msgstr "Lien de projet"
+
+#: inc/metaboxes/projects-metabox.php:33
+msgid "Project info"
+msgstr "Informations sur le projet"
+
+#: inc/metaboxes/employees-metabox.php:98
+msgid "Add a link here if you want the employee name to link somewhere."
+msgstr "Ajoutez un lien ici si vous souhaitez que le nom de l'employé relie quelque part."
+
+#: inc/metaboxes/employees-metabox.php:97
+msgid "Employee Link"
+msgstr "Lien Employé"
+
+#: inc/metaboxes/employees-metabox.php:95
+msgid "Employee Google"
+msgstr "Google Employé"
+
+#: inc/metaboxes/employees-metabox.php:93
+msgid "Employee Twitter"
+msgstr "Twitter Employé"
+
+#: inc/metaboxes/employees-metabox.php:91
+msgid "Employee Facebook"
+msgstr "Facebook Employé"
+
+#: inc/metaboxes/employees-metabox.php:89
+msgid "Employee position"
+msgstr "Position de l'employé"
+
+#: inc/metaboxes/employees-metabox.php:33
+msgid "Employee info"
+msgstr "Info Employé"
+
+#: inc/metaboxes/clients-metabox.php:77
+msgid "Add a link for the client's website here [optional]"
+msgstr "Ajoutez un lien pour le site Web du client ici [facultatif]"
+
+#: inc/metaboxes/clients-metabox.php:76
+msgid "Client link"
+msgstr "Lien client"
+
+#: inc/metaboxes/clients-metabox.php:33
+#: inc/metaboxes/testimonials-metabox.php:33
+msgid "Client info"
+msgstr "Informations sur le client"
