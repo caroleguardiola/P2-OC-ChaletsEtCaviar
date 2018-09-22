@@ -5,6 +5,8 @@ Create a website for a real estate agency of a mountain resort in WordPress.
 
 This project is the 2nd done as part of my training (« Développeur d’applications-spécialité PHP/Symfony » OC).
 
+This project is available on http://chaletsetcaviar.caroleguardiola.com.
+
 ## Instructions for this project:
 
 The application is developed with WordPress.
